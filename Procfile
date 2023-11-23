@@ -1,1 +1,1 @@
-web: gunicorn 'franco_railway.wsgi'
+web: gunicorn franco_railway.wsgi
